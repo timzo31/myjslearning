@@ -1,0 +1,55 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  padding: 50px;
+  z-index: 0;
+}
+
+.navbar-dark {
+  background-color: slateblue;
+  margin: 0px;
+  padding: 0px;
+}
+
+.jumbotron {
+  background-color: mediumslateblue;
+  color: floralwhite;
+  margin: 0px;
+  padding: 70px 30px 70px 30px;
+}
+
+.row-content {
+  min-height: 400px;
+  margin: 0px auto;
+  border-bottom: 1px ridge;
+  padding: 50px 0px 50px 0px;
+  /*overflow: hidden;
+  align-items: center;*/
+}
+
+.footer {
+  background-color: aliceblue;
+  margin: 0px auto;
+  padding: 50px 0px 50px 0px;
+}
+
+.row-header {
+  padding: 0px auto;
+  margin: 0px auto;
+}
+
+.address {
+  font-size: 80%;
+  margin: 0px;
+  color: #0f0f0f;
+}
+
+.card-reserve {
+  padding: 0px;
+}
+
+.row-header a {
+  padding: 5px 20px 5px 20px;
+}

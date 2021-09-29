@@ -1,0 +1,16 @@
+{
+  "name": "starter",
+  "version": "1.0.0",
+  "description": "Pig Game",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run live",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "live": "live-server"
+  },
+  "author": "TIMERA",
+  "license": "ISC",
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
