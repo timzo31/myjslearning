@@ -1,0 +1,17 @@
+$background-dark: #1e057a;
+$background-light: #c8b6d3;
+$lt-white: #fdfdfd;
+
+.modal-header {
+  background-color: $background-dark;
+  .modal-title {
+    color: $lt-white;
+  }
+  button {
+    color: $background-light;
+  }
+}
+
+.modal-body {
+  background-color: $background-light;
+}
